@@ -1,0 +1,6 @@
+# Ignore face image data
+dataset/
+encodings.pkl
+exports/
+__pycache__/
+*.pyc
